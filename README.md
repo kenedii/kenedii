@@ -1,6 +1,6 @@
 ## 
-[![kenedii's Stats](https://github-readme-stats.vercel.app/api?username=kenedii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/kenedii)
-[![kenedii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedii&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/kenedii)
+[![kenedii's Stats](https://github-readme-stats.vercel.app/api?username=kenedii&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)](https://github.com/kenedii)
+[![kenedii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenedii&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)](https://github.com/kenedii)
 
 
 <!--
