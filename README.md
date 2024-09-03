@@ -1,6 +1,6 @@
 ## 
 [![kenedii's Stats](https://github-readme-stats.vercel.app/api?username=kenedii&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)](https://github.com/kenedii)
-[![kenedii's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenedii&theme=date_night)](https://github.com/kenedii)
+[![kenedii's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenedii&theme=2077)](https://github.com/kenedii)
 
 
 
