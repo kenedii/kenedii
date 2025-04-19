@@ -1,20 +1,16 @@
-## 
-[![kenedii's Stats](https://github-readme-stats.vercel.app/api?username=kenedii&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)](https://github.com/kenedii)
-[![kenedii's Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenedii&theme=2077)](https://github.com/kenedii)
+<p align="center">
+  <a href="https://github.com/kenedii"><img src="https://img.shields.io/github/followers/kenedii?label=Followers&style=social" alt="GitHub Followers"></a>
+  <a href="https://leetcode.com/u/datura39/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange" alt="LeetCode"></a>
+  <a href="https://gist.github.com/kenedii"><img src="https://img.shields.io/badge/GitHub-Gists-brightgreen" alt="Gists"></a>
+</p>
 
+---
+<div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenedii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/kenedii)
 
-<!--
-**kenedii/kenedii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenedii&theme=vue-dark&hide_border=true)](https://github.com/kenedii) -->
 
-Here are some ideas to get you started:
+[![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenedii&theme=2077)](https://github.com/kenedii)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
