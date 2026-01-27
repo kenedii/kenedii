@@ -2,6 +2,7 @@
   <a href="https://github.com/kenedii"><img src="https://img.shields.io/github/followers/kenedii?label=Followers&style=social" alt="GitHub Followers"></a>
   <a href="https://leetcode.com/u/datura39/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange" alt="LeetCode"></a>
   <a href="https://gist.github.com/kenedii"><img src="https://img.shields.io/badge/GitHub-Gists-brightgreen" alt="Gists"></a>
+  <a href="https://thetcgindex.com"><img src="https://img.shields.io/badge/Portfolio-ckenedi.vip-red" alt="Portfolio Website"></a>
   <a href="https://thetcgindex.com"><img src="https://img.shields.io/badge/Building-TheTCGIndex.com-blueviolet" alt="TheTCGIndex"></a>
   
 </p>
