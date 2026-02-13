@@ -16,4 +16,7 @@
 
 <!-- [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenedii&theme=2077)](https://github.com/kenedii)-->
 
+![kenedii's GitHub stats](https://github-stats-card-generator.vercel.app/api/svg?username=kenedii&theme=default&chart=bars)
+![kenedii's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=kenedii&type=contributions&theme=default)
+
 </div>
