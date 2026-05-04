@@ -12,7 +12,7 @@
 
 ### About Me
 
-Hi, I'm Chris Kenedi. I have been programming since 2019 and like making things with code :)
+Hi, I'm Chris Kenedi. I like making things with code and have been programming since 2019 :)
 
 My favourite programming languages to work with are Python and C. I enjoy working on projects related to Machine Learning, Finance, Crypto, Big Data, Low Level Programming, and the web.
 
